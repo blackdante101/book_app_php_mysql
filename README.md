@@ -8,3 +8,5 @@ The Role Of Each User
 - Add,Edit,Delete Books In Library
 
 - View Friends Library
+
+you need to create a database called book_app before importing book_app.sql
