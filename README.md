@@ -1,2 +1,8 @@
 # book_app
-a web app which can manage the books you have and want to buy and can view friends books too
+a web app which the user can manage the library and can view friends library
+
+The Role Of Each User 
+
+- Add,Edit,Delete Books In Library
+
+-View Friends Library
