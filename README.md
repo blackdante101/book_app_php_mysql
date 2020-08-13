@@ -13,31 +13,31 @@ you need to create a database called book_app before importing book_app.sql
 
 # Viewing Friend Library
 
-![friendlibrary](book app screenshots/viewfriend.gif)
+![friendlibrary](screenshots/viewfriend.gif)
 
 # Homepage Demo
 
-![homepage demo](book app screenshots/homepage.PNG)
+![homepage demo](screenshots/homepage.PNG)
 
 # Sign Up Demo
 
-![sign up demo](book app screenshots/signup.PNG)
+![sign up demo](screenshots/signup.PNG)
 
 # Sign In Demo
 
-![sign in demo](book app screenshots/login.PNG)
+![sign in demo](screenshots/login.PNG)
 
 # Dashboard Demo
 
-![dashboard demo](book app screenshots/dashboard.PNG)
+![dashboard demo](screenshots/dashboard.PNG)
 
 # My Library Demo
 
-![library demo](book app screenshots/library.PNG)
+![library demo](screenshots/library.PNG)
 
 # Books To Buy Demo
 
-![books to buy](book app screenshots/booktobuy.PNG)
+![books to buy](screenshots/booktobuy.PNG)
 
 
 
